@@ -19,7 +19,6 @@ const setDate = () => {
 //evento para agregar nueva tarea
 
 const addNewTask = event => {
-
 //evitar el submit
     event.preventDefault();
     
